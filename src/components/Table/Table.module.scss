@@ -1,0 +1,17 @@
+.table {
+  &__name {
+    width: 300px;
+    background-color: #f5f5f5;
+  }
+
+  &__currentDay {
+    background-color: #eef8ff;
+    width: 130px;
+  }
+  &__yesterday {
+    width: 130px;
+  }
+  &__dayWeek {
+    width: 200px;
+  }
+}
